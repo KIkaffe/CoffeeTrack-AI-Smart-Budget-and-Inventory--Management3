@@ -66,3 +66,6 @@ AI techniques:
 • Open source AI tools like TensorFlow and Scikit-learn
 • Financial management systems like SAP and QuickBooks
 • Production analytics models from large factory systems
+
+![image of coffe beans](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Roasted_coffee_beans.jpg/1280px-Roasted_coffee_beans.jpg)
+
